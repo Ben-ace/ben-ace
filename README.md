@@ -20,6 +20,9 @@ api-dashboard: Multi-endpoint data dashboard with pandas reports
 
 browser-coach: Client-side AI coaching tool in JavaScript
 
+[Data Analysis Report](https://github.com)— Python script that analyzes daily step records and highlights top-performing days.
+
+
 Tech Stack
 
 Language: Python, JavaScript, SQL
