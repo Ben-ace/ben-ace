@@ -16,7 +16,7 @@ Current Projects
 
 smp-tracker: Daily performance tracker with ML-powered coaching
 
-api-dashboard: Multi-endpoint data dashboard with pandas reports
+[API-Dashboard](https://github.com): Multi-endpoint data dashboard with pandas reports
 
 browser-coach: Client-side AI coaching tool in JavaScript
 
