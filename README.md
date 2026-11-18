@@ -1,16 +1,31 @@
-## Hi there 👋
+Ben Ace | Python Developer | Automation & AI Tools
 
-<!--
-**Ben-ace/ben-ace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical tools that solve actual problems through python, data processing and AI automation. Based in Nairobi, Kenya.
 
-Here are some ideas to get you started:
+What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data analysis and processing projects using Python
+
+REST APIs and backend services.
+
+Machine learning tools for fitness and performance tracking
+
+Browser-based tools with JavaScript and the Fetch API
+
+Current Projects
+
+smp-tracker: Daily performance tracker with ML-powered coaching
+
+api-dashboard: Multi-endpoint data dashboard with pandas reports
+
+browser-coach: Client-side AI coaching tool in JavaScript
+
+Tech Stack
+
+Language: Python, JavaScript, SQL
+
+Data & AI: Pandas• scikit-learn, Numpy
+
+Tools: GitHub, Git • VS Code
+
+Frontend: CSS, HTML
