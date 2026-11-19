@@ -18,7 +18,7 @@ smp-tracker: Daily performance tracker with ML-powered coaching
 
 [API-Dashboard](https://github.com): Multi-endpoint data dashboard with pandas reports
 
-browser-coach: Client-side AI coaching tool in JavaScript
+[browser-coach](https://github.com): Client-side AI coaching tool in JavaScript
 
 [Data Analysis Report](https://github.com)— Python script that analyzes daily step records and highlights top-performing days.
 
